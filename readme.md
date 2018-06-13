@@ -1,18 +1,35 @@
 # Welcome to Airdesk.app
 
-Airdesk.app is a mobile platform that help freelancers, entrepreneurs and creatives find affordable workspaces for their varying needs.
+Airdesk.app is a desktop/mobile platform that help freelancers, entrepreneurs and creatives find affordable creative spaces for their varying creative needs. Our platform would be great for those seeking a small studio space for a day or two, for those who need to find off-the-cuff spaces for creative business meetings, and for those developers who just need a quiet place to work for a few hours.
+
+## The Challenge
+
+API:
+* Use Firebase or similar database to store data.
+
+UI:
+* Use ReactJS as your JS Framework
+* Use Styleguidist to design indiviual components
+* Include a CSS library of your choice
+
+Evaluation is based on:
+* Complete UX case study
+* Fully functional app 
+* Usability tested
+* App must be deployed
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Tools
 
-What things you need to install the software and how to install them
+These are the tools that I've used to build this site:
 
-```
-Give examples
-```
+* Ant.Design UI Component Library
+* ReactJS Framework
+* JSON-server Database
+* React-Styleguidist
 
 ### Installing
 
@@ -32,25 +49,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -58,8 +57,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [ReactJS](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Google Firebase](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
