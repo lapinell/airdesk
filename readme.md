@@ -1,5 +1,6 @@
 # Welcome to CreativeSpace.app
 
+
 CreativeSpace.app is a mobile platform that help freelancers, entrepreneurs and creatives find affordable spaces for their varying needs.
 
 ## The Challenge
@@ -22,6 +23,8 @@ Evaluation is based on:
 
 * [Reactjs](http://www.reactjs.org) - The frontend framework used
 * [Ant.Design](https://ant.design/) - CSS UI Component used
+* JSON-server Database
+* React-Styleguidist
 
 ## Authors
 
