@@ -9,7 +9,7 @@ CreativeSpace.app is a mobile platform that help freelancers, entrepreneurs and 
 
 ## Authors
 
-* **Laura Penell** - *Initial work* - [Laura Pinell](https://github.com/lapinell)
+* [Laura Pinell](https://github.com/lapinell)
 
 ## Copyright Notice
 
