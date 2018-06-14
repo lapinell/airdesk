@@ -2,6 +2,22 @@
 
 CreativeSpace.app is a mobile platform that help freelancers, entrepreneurs and creatives find affordable spaces for their varying needs.
 
+## The Challenge
+
+API:
+* Use Firebase or similar database to store data.
+
+UI:
+* Use ReactJS as your JS Framework
+* Use Styleguidist to design indiviual components
+* Include a CSS library of your choice
+
+Evaluation is based on:
+* Complete UX case study
+* Fully functional app 
+* Usability tested
+* App must be deployed
+
 ## Built With
 
 * [Reactjs](http://www.reactjs.org) - The frontend framework used
